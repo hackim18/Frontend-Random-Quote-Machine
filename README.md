@@ -4,7 +4,7 @@ This project is a Random Quote Machine built with Vite and React. The applicatio
 
 ## Objective
 
-Build an app that is functionally similar to this: https://random-quote.hackimtech.com/.
+Build an app that is functionally similar to this: https://random-quote.hackimtech.com
 
 ## User Stories
 
