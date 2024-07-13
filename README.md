@@ -1,1 +1,0 @@
-# Frontend-Random-Quote-Machine
